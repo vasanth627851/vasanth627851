@@ -18,4 +18,6 @@
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
+    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
