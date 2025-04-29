@@ -19,5 +19,11 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
     <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
+
   <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 
